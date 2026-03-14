@@ -1,0 +1,14 @@
+2026-03-14 20:59:49,649 INFO Time synchronized with Binance server.
+2026-03-14 20:59:50,677 INFO Fetched 695 symbols.
+2026-03-14 20:59:50,855 ERROR Error fetching USDT balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-14 20:59:58,252 INFO Time synchronized with Binance server.
+2026-03-14 20:59:58,999 INFO Fetched 695 symbols.
+2026-03-14 20:59:59,167 ERROR Error fetching USDT balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-14 20:59:59,335 INFO Placing order with params: {'symbol': 'BTCUSDT', 'side': 'BUY', 'quantity': 0.01, 'type': 'MARKET', 'recvWindow': 5000}
+2026-03-14 20:59:59,501 ERROR Order API error: Invalid API-key, IP, or permissions for action
+2026-03-14 21:06:25,179 INFO Time synchronized with Binance server.
+2026-03-14 21:06:26,300 INFO Fetched 695 symbols.
+2026-03-14 21:06:31,227 INFO Time synchronized with Binance server.
+2026-03-14 21:06:31,836 INFO Fetched 695 symbols.
+2026-03-14 21:06:32,483 INFO Placing order with params: {'symbol': 'BTCUSDT', 'side': 'BUY', 'quantity': 0.01, 'type': 'MARKET', 'recvWindow': 5000}
+2026-03-14 21:06:32,707 INFO Order response: {'orderId': 12811272100, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ84e69c283cb860e2de174c', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1773502593035}
