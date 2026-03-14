@@ -29,7 +29,7 @@ pip install streamlit python-binance
 ```
 ## Run the Application
 ```
-streamlit run bot.py
+streamlit run app.py
 ```
 ## Usage
 
